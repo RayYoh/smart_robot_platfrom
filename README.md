@@ -14,7 +14,7 @@ The software is written in QT application development framework, using CMAKE too
 
 ##### 1.  Clone this repository
 `git clone git@gitee.com:mr-tong/smart_robot_platform_cmake.git` or `git clone https://github.com/RayYoh/smart_robot_platfrom.git`
-##### 2.  Install[ur_rtde](https://gitlab.com/sdurobotics/ur_rtde)
+##### 2.  Install [ur_rtde](https://gitlab.com/sdurobotics/ur_rtde)
 
 ```
 sudo add-apt-repository ppa:sdurobotics/ur-rtde
