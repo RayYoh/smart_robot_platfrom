@@ -23,7 +23,7 @@ sudo apt install librtde librtde-dev
 ```
 
  **PS: If there is a 404 inaccessible error, install it manually**
-- Download librtde[librtde-dev.](http://ppa.launchpad.net/sdurobotics/ur-rtde/ubuntu/pool/main/u/ur-rtde/)   
+- Download librtde [librtde-dev.](http://ppa.launchpad.net/sdurobotics/ur-rtde/ubuntu/pool/main/u/ur-rtde/)   
 - Add `deb http://ftp.de.debian.org/debian sid main ` to `/etc/apt/sources.list`
 - Execute the following command
 ```
