@@ -1,0 +1,14 @@
+/CMakeFiles/
+/smart_robot_platform_autogen/
+smart_robot_platform
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
