@@ -1,11 +1,11 @@
 # smart_robot_platform_cmake
 
 #### 介绍 Introduction
-基于六维力传感器的机器人智能控制系统，适用于UR系列机器人
+基于六维力传感器的机器人智能控制系统，适用于UR系列机器人  
 A smart robot platform for UR series robot based on six-axis force sensor.
 
 #### 软件架构 Software Architecture 
-软件采用QT应用程序开发框架编写，使用CMAKE工具构建项目
+软件采用QT应用程序开发框架编写，使用CMAKE工具构建项目  
 The software is written in QT application development framework, using CMAKE tools to build the project .
 
 #### 开发平台 Develop Platform
